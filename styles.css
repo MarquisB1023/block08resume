@@ -1,0 +1,62 @@
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    align-content: center;
+
+    height: 30px;
+}
+
+h2 {
+    font-size: 50px;
+   
+    text-align: center;
+    align-content: center;
+    height: 40px
+}
+
+h3 {
+    font-size: 30px;
+    justify-content: left;
+}
+
+
+.maincontent{
+    align-content: center;
+   display: inline-block;
+   align-items: center;
+   padding-left: 300px;
+   
+    
+}
+
+ 
+ul{
+    text-align: left ;
+}
+.sidecontent{
+ 
+ justify-content: left;
+height: 100px;
+width: 100px;
+
+
+}
+
+p {
+  font-size: 18px;
+  justify-content: left;
+  text-align: left;
+}
+
+.box{
+    justify-content: center;
+    align-content: center;
+    
+  
+    display: flex;
+  
+    
+   
+ 
+}
